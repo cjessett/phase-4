@@ -1,17 +1,16 @@
 ## Wednesday
-### Advanced JavaScript
+### Pitch Exploration
 
 **Talks**
 
-- Gemsy Talks
+New Technology Exploration Talks
 
 ### Core
 
 **Talks**
 
-Gemsy Talks
+New Technology Exploration Talks
 
-**Challenges**
+**Prep for tomorrow**
 
-- [Lil Twitter](../../../../lil-twitter-challenge)
-
+- Practice pitch for tomorrow
