@@ -1,17 +1,17 @@
 ## Tuesday
-### Advanced JavaScript
+### Client Project continue
 
 **Talks**
 
-- Gemsy Talks
+- New Technology Exploration Talks
 
 ### Core
 
 **Talks**
 
-Gemsy Talks
+New Technology Exploration Talks
 
-**Challenges**
+**Prep for tomorrow**
 
-- [Markdown Widget Challenge](../../../../markdown-widget-challenge)
-- [Jasmine MVC](../../../../jasmine-mvc-challenge)
+- Come up with ideas for Pitch Day
+- Read if you can't come up with ideas: [YCombinator Request for Startups](https://www.ycombinator.com/rfs/)
