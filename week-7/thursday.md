@@ -1,22 +1,39 @@
 ## Thursday
-### Client Project - Day 2/3
+### Design a React app from the ground up
 
-### Core
+#### Challenges
+  
+- **Morning**
+  
+  ** [Solo Project] Build an IMDB clone using React and OMDB API**
+
+  Build an IMDB clone with React using the [OMDB API](http://www.omdbapi.com/).
+  
+  In the Lil' Twitter challnge, a design was provided to you, which you compoentized. In this project, you will focus on design -- specifically you will focus on UI and software design using React.
+  
+  This project, intentionally has very little instructions. Artists and Software Developers are no different. [What is Art anyway?](http://panw.weebly.com/programming/what-is-art). To me, it's just an expression with an intent therefore making everything art. As a Software Developer, you will not always be provided with very clear specifications. As an artist, you use your imagination and ask questions.
+  
+  Have fun!
+  
+- **Afternoon (If you finish IMDB clone)**
+  
+  **[Pair Project] Build a Stackoverflow clone**
+  This project would be exactly the same from P2 - make sure to use polymorphic associations and make it better.
+
+  The focus of this project is to better utilize React's compositional style and see some of the benefits first hand.
+  
+  
+**Resources**
+
+- Translations for [React ES5, ES6, and if it was written in Ruby](http://panw.weebly.com/programming/translation-for-react-es5-es6-and-if-react-was-in-ruby)
+
+**Pre-work**
+
+- Read [JBuilder](https://github.com/rails/jbuilder)
+- Watch [Railscast on JBuilder](http://railscasts.com/episodes/320-jbuilder)
 
 **Talks**
 
-- Railsy Talks
+- New Technology Exploration Talks
 
-**Group Project**
-
-- [Client Project](../../../../client-project-challenge)
-
-Today you will:
-
-- continue working on your user stories
-- continue testing
-- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
-
-### Additional Resources
-
-- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
+---
