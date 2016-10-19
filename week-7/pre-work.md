@@ -80,7 +80,7 @@ own, but you all need more practice with that.
 * Go through [Learning Rails](../phase-3-prep/learning-rails.md)
 * Watch a talk on rails (see below)
 * [Build a Rails Blog](../../../../rails-blog-challenge)
-* Choose one [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) and one [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md). These are short talks which you will give to the rest of the cohort.  When you pick yours, update the [Lightning Talks Schedule](../resources/lightning-talks-schedule.md).
+* Choose a [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) or [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md). These are short talks which you will give to the rest of the cohort.
 * Deploy your Rails app to Heroku **from your personal laptop**
 
 **Talks on Rails (watch one)**
@@ -88,6 +88,10 @@ own, but you all need more practice with that.
 - [Intro to Rails with Lucas - part 2 (1h 15min)](https://talks.devbootcamp.com/intro-to-rails-part-2)
 - [Intro to Rails with Mike - (~2hr)](https://talks.devbootcamp.com/2014-coyotes-aeu-intro-to-rails)
 - [Intro to Rails with Nate Delage (~1hr)](https://talks.devbootcamp.com/rails-intro-1)
+
+**JavaScript**
+
+- Watch [videos 1 - 8](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 ### Additional Resources
 
