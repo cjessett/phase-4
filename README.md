@@ -31,33 +31,41 @@
   </tr>
 
   <tr>
-    <th>Week 9</th>
-    <td colspan="3"><a href="./final-projects/README.md">Final Projects</a></td>
+    <th><a href="./week-9/">Week 9</a></th>
+    <td>MVP Demo</td>
+    <td colspan="1">Feature Freeze</td>
+    <td>Code Freeze</td>
     <td>Demo Preparation</td>
     <td>Demonstration and Graduation</td>
     <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5"><a href="./final-projects/README.md">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Final Projects ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</a></td>
+    <td></td>
   </tr>
 </table>
 
 ## Weekly Groups
 
-Find your weekly groups [here](./resources/groups.md).
+See the <a href="../../wiki/Groups">wiki</a> for your weekly groups.
+
 
 ## Weekly Cadence
 
-- Engineering Empathy (EE):
-  - <- FILL IN DETAILS HERE ->
-- Careers:
-  - <- FILL IN DETAILS HERE ->
-- Cohort Fun Activities:
-  - <- FILL IN DETAILS HERE ->
-- Assessment:
-  - <- FILL IN DETAILS HERE ->
+- Engineering Empathy:
+  - Week One: Navigating Difficult Conversations, Tuesday from 3:00 PM - 4:00 PM
+  - Week Two: Team Dynamics, Tuesday from 3:00 PM - 4:00 PM
 
 ## Daily Cadence
 
-<- FILL IN DETAILS HERE ->
-
 Time    | Activity
 ---     | ---
-        |
+8:45 AM | Check in with accountability buddies
+9:00 AM | Daily Progress Checkin/Lecture
+10:00 PM | Challenges/Breakouts
+12:30 PM | Lunch
+2:00 PM | Afternoon Announcements
+2:10 PM | Challenges/Breakouts
+5:45 PM | End of day
+6:00 PM | After hours learning/mentoring/solo time
