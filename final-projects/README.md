@@ -52,14 +52,15 @@ The [Final Projects timeline](timeline.md) has been provided to you, and it is s
     - Spending too much time trying to come up with the perfect design and implementation
     - Focusing on the wrong details (Read about bikeshedding: [Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality), [Bikeshedding](https://en.wiktionary.org/wiki/bikeshedding))
     - Not effectively communicating and being in sync with your team and instructors
-   
+
   - **Technical**
+    - Constantly fetching data from an API. You should have a local copy, so it speeds up development. Given that, you should still check with real data source before pushing to production.
     - Not setting up a new Rails app properly ([see these instructions](https://gist.github.com/panw/1523e7289825583bfc45842d20914636))
     - Not having a .gitignore
     - Nesting Rails project in a subdirectory
     - Not committing after completing a task
     - Not being in sync with the master
-    - Don't commit your AWS keys on Github
+    - Committing your AWS keys on Github
 
 ### Resources
 
