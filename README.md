@@ -41,12 +41,12 @@
 
 ## Weekly Groups
 
-See [the wiki](../../wiki/Groups) for your weekly groups.
+Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
 - Yoga:
-  - optional classes available 11:45am - 12:30pm Tuesday, Wednesday, Thursday
+  - optional classes available 12:45pm - 1:30pm Tuesday, Wednesday, Thursday
 - Careers:
   - Friday Week 3 - Chat about upcoming Career week at 1:15 
 
@@ -54,28 +54,28 @@ See [the wiki](../../wiki/Groups) for your weekly groups.
 
 Time    | Activity
 ---     | ---
-7:45am  | Check in with accountability buddies
-8:00am  | Morning Announcements
-8:05am  | Daily Progress Checkin
-8:25am  | Challenges/Breakouts
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Challenges/Breakouts
-5:00pm  | End of core hours
-5:00pm  | After hours learning/mentoring/solo time
+8:45am  | Check in with accountability buddies
+9:00am  | Morning Announcements
+9:05am  | Daily Progress Checkin
+9:25am  | Challenges/Breakouts
+12:30am | Lunch
+2:00pm  | Afternoon Announcements
+2:05pm  | Challenges/Breakouts
+6:00pm  | End of core hours
+6:00pm  | After hours learning/mentoring/solo time
 
 ## Daily Cadence (during Final Projects)
 
 Time    | Activity
 ---     | ---
-7:45am  | Check in with final project group
-8:00am  | Morning Announcements
-8:05am  | Morning Project Standup
-8:15am  | Work!
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Afternoon Project Standup
-1:15pm  | Work!
-4:45pm  | Evening Project Standup
-5:00pm  | End of core hours
-5:00pm  | Work!
+8:45am  | Check in with final project group
+9:00am  | Morning Announcements
+9:05am  | Morning Project Standup
+9:15am  | Work!
+12:30am | Lunch
+2:00pm  | Afternoon Announcements
+2:05pm  | Afternoon Project Standup
+2:15pm  | Work!
+5:45pm  | Evening Project Standup
+6:00pm  | End of core hours
+6:00pm  | Work!
