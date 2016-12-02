@@ -3,13 +3,13 @@
 
 #### Challenges
 
-As we learn React, the challenges will be based on the [Lil Twitter](../../../../lil-twitter-challenge) challenge.
+As we learn React, the challenges will be based on the [Lil Twitter](../../../../lil-twitter-react-challenge) challenge.
 
 - **Session 1**
 
   - componentize the app
   - incorporate props using seed data
-  
+
 - **Session 2**
 
   - fetch data from server
@@ -19,7 +19,7 @@ As we learn React, the challenges will be based on the [Lil Twitter](../../../..
 
   - add event listeners to app
   - updated UI based on interaction
-  
+
 
 **Talks**
 
@@ -33,5 +33,5 @@ As we learn React, the challenges will be based on the [Lil Twitter](../../../..
   - Do official [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
   - Read about [React Life Cycle](https://facebook.github.io/react/docs/component-specs.html)
   - Yesterday's material that you didn't get to
-    
+
 ---

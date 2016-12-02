@@ -33,7 +33,8 @@
       "jasmine-mvc-challenge"
     ],
     "wednesday": [
-      "lil-twitter-challenge"
+      "lil-twitter-challenge",
+      "lil-twitter-react-challenge"
     ]
   }
 }
