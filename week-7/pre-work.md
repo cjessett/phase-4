@@ -37,10 +37,10 @@ each of you to build and deploy a blog using Rails by Monday morning (read the
 directions in the guide).
 
 For deployment, you'll need to sign up for Heroku if you haven't already. See
-the [Heroku docs for Rails 4][HerokuGS].
+the [Heroku docs for Rails 5](https://devcenter.heroku.com/articles/getting-started-with-rails5).
 
 
-Make sure you create a Rails 4 application, not Rails 3. For your CSS and JS to
+Make sure you create a Rails 5 application, not Rails 4. For your CSS and JS to
 work properly with Rails' asset pipeline feature, you'll need to add the
 `rails_12factor` gem to your Gemfile.
 
@@ -69,6 +69,10 @@ own, but you all need more practice with that.
 
 ### Core
 
+**Setup**
+
+- Use [this](https://gist.github.com/panw/1523e7289825583bfc45842d20914636) configuration for creating a new rails app.
+
 **Prep for Monday**
 
 * Read [Intro to Phase 3](../resources/intro-to-p3.md)
@@ -76,12 +80,20 @@ own, but you all need more practice with that.
 
 **Rails**
 
+- [Rails setup guide](https://gist.github.com/panw/1523e7289825583bfc45842d20914636)
 - Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
 * Go through [Learning Rails](../phase-3-prep/learning-rails.md)
 * Watch a talk on rails (see below)
 * [Build a Rails Blog](../../../../rails-blog-challenge)
-* Choose a [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) or [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md). These are short talks which you will give to the rest of the cohort.
+* Explore some new technology to give a lightening talk to your cohort (JavaScript packages, APIs). If you need ideas checkout [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) or [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md).
+* [Railsbridge](http://docs.railsbridge.org/job-board/)
 * Deploy your Rails app to Heroku **from your personal laptop**
+
+**Rails Testing**
+
+- [Everydayrails](https://everydayrails.com/2012/03/12/testing-series-intro.html) (skip Capybara part)
+
+- [How We Test Rails Applications](https://robots.thoughtbot.com/how-we-test-rails-applications)
 
 **Talks on Rails (watch one)**
 - [Intro to Rails with Lucas - part 1 (45 min)](https://talks.devbootcamp.com/intro-to-rails-part-1)
@@ -91,7 +103,9 @@ own, but you all need more practice with that.
 
 **JavaScript**
 
+- Watch [What the heck is the event loop?](https://youtu.be/8aGhZQkoFbQ)
 - Watch [videos 1 - 8](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- Do/Redo [JavaScript Interview Exercise](https://github.com/nyc-coyotes-2016/p2-javascript-interview-exercises/blob/master/javascript-fundamentals.md)
 
 ### Additional Resources
 
