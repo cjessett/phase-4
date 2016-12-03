@@ -40,9 +40,9 @@ For deployment, you'll need to sign up for Heroku if you haven't already. See
 the [Heroku docs for Rails 5](https://devcenter.heroku.com/articles/getting-started-with-rails5).
 
 
-Make sure you create a Rails 5 application, not Rails 4. For your CSS and JS to
+Make sure you create a Rails 5 application, not Rails 4. ~~For your CSS and JS to
 work properly with Rails' asset pipeline feature, you'll need to add the
-`rails_12factor` gem to your Gemfile.
+`rails_12factor` gem to your Gemfile.~~ (The previous line is no longer true for Rails 5 applications.)
 
 Only use generators once to see what they do.  It is expected that you will
 only use _migration_ generators in this phase. Generators are for coders who
