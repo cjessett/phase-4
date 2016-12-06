@@ -18,7 +18,7 @@
 - Watch [Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 - Watch [JS Closure](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-- Watch [JS Scope](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- Watch [JS Scope](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) <!-- This is the same link as closures  -->
 - Watch [JS Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&index=8&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 Refresh on these topics:
