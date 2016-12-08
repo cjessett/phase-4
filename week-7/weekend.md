@@ -18,7 +18,7 @@ Take this opportunity to start investigating what you will pitch for final proje
 
 For example:
 - If you are thinking of using the Google Maps API for a pitch build a small app that utilizes it.
-- Perhpas you want to build a realtime chatting application checkout web sockets (Action Cable)
+- Perhaps you want to build a realtime chatting application checkout web sockets (Action Cable)
 
 The app you build doesn't have to exactly to be your final project pitch, but something related. 
 
