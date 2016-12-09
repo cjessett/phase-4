@@ -29,7 +29,7 @@ As we learn React, the challenges will be based on the [Lil Twitter](../../../..
 
   - Start thinking about final project pitches
   - Investigate the feasiblity of your pitches
-  - Look through [React ES5, ES6, if it was written in Ruby](https://github.com/nyc-salamanders-2016/phase-3-guide/wiki/React-Translations-(ES5,-ES6,-if-it-was-Ruby))
+  - Look through [React ES5, ES6, if it was written in Ruby](/../../blob/nyc/resources/if-react-were-written-in-ruby.md)
   - Do official [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
   - Read about [React Life Cycle](https://facebook.github.io/react/docs/component-specs.html)
   - Yesterday's material that you didn't get to
