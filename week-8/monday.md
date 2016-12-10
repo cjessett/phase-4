@@ -15,7 +15,7 @@ Today, you will:
 Recommendations:
 
 - Build the app as a monolith using react-rails to avoid the need for CORS
-- If you are going to use Devise for authetication, skip building views in React
+- If you are going to use Devise for authentication, skip building views in React
 
 ---
 
