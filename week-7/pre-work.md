@@ -25,6 +25,10 @@ READ, RESEARCH, & DIG INTO THE ERRORS!
 
 This phase is gonna be hard, and yes, you should still ask for help!
 
+## Careers
+
+It's getting close to graduation, and you'll find careers curriculum integrated in this phase. In addition to one-on-ones with the careers team, you'll have workshops during core hours and career prep in the evening to compliment your technical work. This work will lay the foundation for your job hunt.
+
 ## Long version
 
 We'll be kicking off the Phase 3 on Monday by diving in to Rails (whoo!
