@@ -10,6 +10,7 @@
 **Challenges**
 
 - [Rocket, Paper-plane, Scissors](../../../../rocket-paperplane-scissors-challenge)
+- Reading: [The Testing Pyramid](../resources/testing.md)
 - [TDD Favorite Songs Application](../../../../tdd-favorite-songs-rails-challenge)
 
 **Prep for Tomorrow**
