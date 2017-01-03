@@ -23,6 +23,9 @@ Today, you will:
 
 **Prep for Tomorrow**
 
+- Continue working on your resume
+- [Building your LinkedIn](https://devbootcamp.instructure.com)
+- Begin work on your LinkedIn Profile
 - Read up on good commit messages
     - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
     - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
