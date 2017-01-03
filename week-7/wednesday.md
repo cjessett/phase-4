@@ -24,7 +24,7 @@ Today, you will:
 **Prep for Tomorrow**
 
 - Continue working on your resume
-- LinkedIn video from Katy
+- [Building your LinkedIn](https://devbootcamp.instructure.com)
 - Begin work on your LinkedIn Profile
 - Read up on good commit messages
     - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)

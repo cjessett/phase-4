@@ -18,8 +18,8 @@
 
 **Prep for Tomorrow**
 
-- Reading from Avner
-- Resume Video from Katy
+- [Building your Resume](https://devbootcamp.instructure.com)
+- Begin work on your resume
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
 Refresh on these topics:
