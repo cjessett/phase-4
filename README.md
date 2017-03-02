@@ -45,8 +45,6 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga:
-  - optional classes available 12:45pm - 1:30pm Tuesday, Wednesday, Thursday
 - Careers:
   - Friday Week 3 - Chat about upcoming Career week at 1:15 
 
