@@ -12,10 +12,6 @@
 
 - [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 
-**Careers Workshop**
-
-- Building your Personal Brand: 4:30pm - EOD. Resume cores after.
-
 **Prep for Tomorrow**
 
 - Watch [Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
