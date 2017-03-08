@@ -18,8 +18,7 @@
 
 **Prep for Tomorrow**
 
-- [Building your Resume](https://devbootcamp.instructure.com)
-- Begin work on your resume
+- Watch [Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
 Refresh on these topics:
