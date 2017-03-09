@@ -75,7 +75,6 @@ own, but you all need more practice with that.
 
 **Prep for Monday**
 
-* Read [Intro to Phase 3](../resources/intro-to-p3.md)
 * Read [Github Workflow](../resources/git-workflow.md)
 
 **Rails**
