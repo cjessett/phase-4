@@ -1,39 +1,50 @@
 ## Thursday
-### Design a React app from the ground up
+### Client Project - Day 2/3
 
-#### Challenges
-  
-- **Morning**
-  
-  ** [Solo Project] Build an IMDB clone using React and OMDB API**
-
-  Build an IMDB clone with React using the [OMDB API](http://www.omdbapi.com/).
-  
-  In the Lil' Twitter challenge, a design was provided to you, which you componentized. In this project, you will focus on design -- specifically you will focus on UI and software design using React.
-  
-  This project, intentionally, has very little instructions. Artists and Software Developers are no different. [What is Art anyway?](http://panw.weebly.com/programming/what-is-art). To me, it's just an expression with an intent therefore making everything art. As a Software Developer, you will not always be provided with very clear specifications. As an artist, you use your imagination and ask questions.
-  
-  Have fun!
-  
-- **Afternoon (If you finish IMDB clone)**
-  
-  **[Pair Project] Build a Stack Overflow clone**
-  This project would be exactly the same from P2 - make sure to use polymorphic associations and make it better.
-
-  The focus of this project is to better utilize React's compositional style and see some of the benefits first-hand.
-  
-  
-**Resources**
-
-- Translations for [React ES5, ES6, and if it was written in Ruby](http://panw.weebly.com/programming/translation-for-react-es5-es6-and-if-react-was-in-ruby)
-
-**Pre-work**
-
-- Read [JBuilder](https://github.com/rails/jbuilder)
-- Watch [Railscast on JBuilder](http://railscasts.com/episodes/320-jbuilder)
+### Core
 
 **Talks**
 
-- New Technology Exploration Talks
+- Railsy Talks
 
----
+**Group Project**
+
+- [Client Project](../../../../client-project-challenge)
+
+Today you will:
+
+- continue working on your user stories
+- continue testing
+- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
+
+Tomorrow you will:
+
+- demo your product in the morning
+
+### Additional Resources
+
+- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
+
+**Prep for Tomorrow**
+
+As we close out our work on building a Rails project, we're now going to pivot
+to talking about JavaScript. JavaScript, as you know, rides on top of content
+delivered by a web server, in our case, Rails.
+
+In order to talk about advanced web frameworks, we need to understand a few of the
+**most difficult** topics about how JavaScript works. Unsurprisingly, questions
+around these topics are usually the ones used to weed-out interview candidates.
+You could know React and Angular 2 backward and forward, but I would contend
+that anyone claiming to "know" JavaScript but who couldn't answer this would
+not move past me in the interview process.
+
+Get an objective measure of your comfort with the [JavaScript Interview Exercise](https://github.com/nyc-coyotes-2016/p2-javascript-interview-exercises/blob/master/javascript-fundamentals.md)
+
+Note any weakness and see if you an address it with the help of the following
+resources. If you require further help, bring questions to school tomorrow.
+
+- Watch [What the heck is the event loop?](https://youtu.be/8aGhZQkoFbQ)
+- Watch [JS Closure](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- Watch [JS Scope](https://www.youtube.com/watch?v=SBwoFkRjZvE)
+- Watch [JS Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&index=8&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- Watch [JS `this` and `bind`](https://www.youtube.com/watch?v=PIkA60I0dKU)

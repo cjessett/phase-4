@@ -9,13 +9,14 @@
       "tdd-favorite-songs-rails-challenge"
     ],
     "wednesday": [
-      "lil-twitter-react-challenge"
+      "client-project-challenge"
     ],
     "thursday": [
-
+      "client-project-challenge"
     ],
     "friday": [
-
+      "jasmine-mvc-challenge",
+      "jasmine-mvc-challenge"
     ],
     "weekend": [
       "rails-checkpoint-challenge"
@@ -26,13 +27,14 @@
   },
   "week-8": {
     "monday": [
-      "client-project-challenge"
+      "markdown-widget-challenge",
+      "markdown-widget-challenge"
     ],
     "tuesday": [
 
     ],
     "wednesday": [
-
+      "lil-twitter-react-challenge"
     ]
   }
 }

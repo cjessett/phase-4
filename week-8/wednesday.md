@@ -1,16 +1,14 @@
 ## Wednesday
-### Pitch Exploration
-
-**Talks**
-
-New Technology Exploration Talks
+### React (1/2 -- Continued)
 
 ### Core
 
-**Talks**
+**Challenges**
+[Lil Twitter](../../../../lil-twitter-react-challenge)
 
-New Technology Exploration Talks
+**Get Ready for Final Projects**
 
-**Prep for tomorrow**
-
-- Practice pitch for tomorrow
+- Investigate the feasiblity of your pitches
+- Come up with ideas for Pitch Day
+- Read if you can't come up with ideas: [YCombinator Request for Startups](https://www.ycombinator.com/rfs/)
+- You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.

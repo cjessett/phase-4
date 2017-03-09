@@ -1,26 +1,31 @@
 ## Monday
-**Group Project**
+### View Components and Gateway to React
 
-[Client Project](../../../../client-project-challenge)
+### Core
 
-You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
+**Talks**
 
-Today, you will:
+Gemsy Talks
 
-- meet with your client to get your project's requirements
-- determine your team's working process
-- write out and plan your user stories
-- begin working on your features
+**Challenges**
 
-Recommendations:
+- [Markdown Widget Challenge](../../../../markdown-widget-challenge)
+- Demo of [Markdown Widget Challenge](../../../../markdown-widget-challenge) in React
+- Grocery list with React Component (no Ajax, no Drag and Drop)
+- Grocery list with React + Ajax (no drag and Drop)
 
-- Build the app as a monolith using react-rails to avoid the need for CORS
-- If you are going to use Devise for authentication, skip building views in React
+**Stretch**
+- Grocery list with React + Ajax + Drag and Drop)
 
----
+_NOTE_: This pattern of static page, unto components, unto data binding, unto bells and
+whistles is a great way to attack building JavaScript front-end apps and
+should be repeated tomorrow and Wednesday. Reflect on it!
 
-**Prep for tomorrow**
+**Reference**
 
-- Come up with ideas for Pitch Day
-- Read if you can't come up with ideas: [YCombinator Request for Startups](https://www.ycombinator.com/rfs/)
-
+- **React**
+	- Read [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+	- Watch this [talk](https://www.youtube.com/watch?v=qqVbr_LaCIo) until **10:26**
+	- Read React intro [blog](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+	- Watch [intro to JSX](https://frontendmasters.com/courses/react-intro/#v=mc66igcb45)
+	- [React Rails Docs](https://github.com/reactjs/react-rails)
