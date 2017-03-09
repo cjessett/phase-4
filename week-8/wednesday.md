@@ -3,6 +3,13 @@
 
 ### Core
 
+**Discussion**
+
+Legacy, but powerful JavaScript Patterns
+
+* JavaScript Module Pattern
+* IIFE (Instantly Invoked Function Expression)
+
 **Challenges**
 [Lil Twitter](../../../../lil-twitter-react-challenge)
 
