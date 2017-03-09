@@ -75,7 +75,7 @@ and your ability to reason through a problem are your greatest teachers.
 
 **Setup**
 
-- Use [this](https://gist.github.com/panw/1523e7289825583bfc45842d20914636) configuration for creating a new rails app.
+- Use [this process](../resources/rails-setup.md) for creating a new rails app.
 
 **Prep for Monday**
 
