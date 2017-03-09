@@ -83,37 +83,16 @@ and your ability to reason through a problem are your greatest teachers.
 
 **Rails**
 
-- [Rails setup guide](https://gist.github.com/panw/1523e7289825583bfc45842d20914636)
-- Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
-* Go through [Learning Rails](../phase-3-prep/learning-rails.md)
 * Watch a talk on rails (see below)
+
 * [Build a Rails Blog](../../../../rails-blog-challenge)
-* Explore some new technology to give a lightening talk to your cohort (JavaScript packages, APIs). If you need ideas checkout [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) or [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md).
-* [Railsbridge](http://docs.railsbridge.org/job-board/)
 * Deploy your Rails app to Heroku **from your personal laptop**
-
-**Rails Testing**
-
-- [Everydayrails](https://everydayrails.com/2012/03/12/testing-series-intro.html) (skip Capybara part)
-
-- [How We Test Rails Applications](https://robots.thoughtbot.com/how-we-test-rails-applications)
-
-**Talks on Rails (watch one)**
-- [Intro to Rails with Lucas - part 1 (45 min)](https://talks.devbootcamp.com/intro-to-rails-part-1)
-- [Intro to Rails with Lucas - part 2 (1h 15min)](https://talks.devbootcamp.com/intro-to-rails-part-2)
-- [Intro to Rails with Mike - (~2hr)](https://talks.devbootcamp.com/2014-coyotes-aeu-intro-to-rails)
-- [Intro to Rails with Nate Delage (~1hr)](https://talks.devbootcamp.com/rails-intro-1)
-
-**JavaScript**
-
-- Watch [What the heck is the event loop?](https://youtu.be/8aGhZQkoFbQ)
-- Watch [videos 1 - 8](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-- Do/Redo [JavaScript Interview Exercise](https://github.com/nyc-coyotes-2016/p2-javascript-interview-exercises/blob/master/javascript-fundamentals.md)
+- [Cool Stuff in Rails](../resources/cool-stuff-in-rails.md): **VERY IMPORTANT**. Seeing some of these helpers and patterns will make learning the work of Rails much easier. Time invested here (perhaps attempting "fuzzy" experiments as opportunity in your Rails Blog codebase will have great benefit)
+* Explore some new technology to give a lightening talk to your cohort (JavaScript packages, APIs). If you need ideas checkout [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) or [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md).
 
 ### Additional Resources
 
-- [Cool Stuff in Rails](../resources/cool-stuff-in-rails.md) (seriously read this)
-- [Rails Resources](../resources/rails-resources.md)
 - [Rails coming from Sinatra](../phase-3-prep/rails-sinatra.md)
+- [Rails Resources](../resources/rails-resources.md)
 
 [Heroku Rails5]: https://devcenter.heroku.com/articles/getting-started-with-rails5
