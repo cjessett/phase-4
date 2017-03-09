@@ -90,6 +90,12 @@ and your ability to reason through a problem are your greatest teachers.
 - [Cool Stuff in Rails](../resources/cool-stuff-in-rails.md): **VERY IMPORTANT**. Seeing some of these helpers and patterns will make learning the work of Rails much easier. Time invested here (perhaps attempting "fuzzy" experiments as opportunity in your Rails Blog codebase will have great benefit)
 * Explore some new technology to give a lightening talk to your cohort (JavaScript packages, APIs). If you need ideas checkout [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) or [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md).
 
+**Talks on Rails (watch one)**
+- [Intro to Rails with Lucas - part 1 (45 min)](https://talks.devbootcamp.com/intro-to-rails-part-1)
+- [Intro to Rails with Lucas - part 2 (1h 15min)](https://talks.devbootcamp.com/intro-to-rails-part-2)
+- [Intro to Rails with Mike - (~2hr)](https://talks.devbootcamp.com/2014-coyotes-aeu-intro-to-rails)
+- [Intro to Rails with Nate Delage (~1hr)](https://talks.devbootcamp.com/rails-intro-1)
+
 ### Additional Resources
 
 - [Rails coming from Sinatra](../phase-3-prep/rails-sinatra.md)
