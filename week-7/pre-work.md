@@ -59,12 +59,17 @@ fingers start remembering how those files come together.
 Phase 3 is about ramping up for the real world. You'll be treated less like
 students and more like professional developers. Answers will not be served on a
 platter; rather, you'll have to take the initiative to pursue solutions on your
-own. We aren't looking for clever solutions; instead, we'll make sure your
-process is disciplined, your git log is spotless, and your code is
-well-written, tested, and robust. Consider us more your tech leads who you go
-to more for design decisions rather than "why isn't this working???" sort of
-answers.  This will push you all on reading the errors and digging in on your
-own, but you all need more practice with that.
+own. We aren't looking for clever solutions (non-coincidentally, interviewers
+aren't either); instead, we'll make sure your process is disciplined, your `git`
+log is spotless, and your code is well-written, tested, and robust. Consider us
+more your tech leads who you go to more for design decisions rather than "why
+isn't this working???" sort of answers.  This will push you all on reading the
+errors and digging in on your own, but you all need more practice with that.
+
+Lastly the guidance and resources provide in this document are not meant to be
+"read and forgotten." You can use this starting page and these resources as a
+great place to get unstuck. Remember the console, your peers, your imagination,
+and your ability to reason through a problem are your greatest teachers.
 
 ### Core
 
