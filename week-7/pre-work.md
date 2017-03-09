@@ -46,7 +46,7 @@ each of you to build and deploy a blog using Rails by Monday morning (read the
 directions in the guide).
 
 For deployment, you'll need to sign up for Heroku if you haven't already. See
-the [Heroku docs for Rails 5](https://devcenter.heroku.com/articles/getting-started-with-rails5).
+the [Heroku docs for Rails 5][Heroku Rails5].
 
 
 Make sure you create a Rails 5 application, not Rails 4. ~~For your CSS and JS to
@@ -121,4 +121,4 @@ own, but you all need more practice with that.
 - [Rails Resources](../resources/rails-resources.md)
 - [Rails coming from Sinatra](../phase-3-prep/rails-sinatra.md)
 
-[HerokuGS]: https://devcenter.heroku.com/articles/getting-started-with-rails4.
+[Heroku Rails5]: https://devcenter.heroku.com/articles/getting-started-with-rails5
