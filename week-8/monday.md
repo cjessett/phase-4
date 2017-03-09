@@ -11,10 +11,10 @@ Gemsy Talks
 
 - [Markdown Widget Challenge](../../../../markdown-widget-challenge)
 - Demo of [Markdown Widget Challenge](../../../../markdown-widget-challenge) in React
-- Grocery list with React Component (no Ajax, no Drag and Drop)
-- Grocery list with React + Ajax (no drag and Drop)
+- [Grocery List](../../../../grocery-list-react-challenge) with React Component (no Ajax, no Drag and Drop)
 
 **Stretch**
+
 - Grocery list with React + Ajax + Drag and Drop)
 
 _NOTE_: This pattern of static page, unto components, unto data binding, unto bells and
