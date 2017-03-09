@@ -7,6 +7,15 @@ a matter of the time and effort you give to continued, focused practice.
 
 So yeah. Let's get ready to work even harder.
 
+## Goals
+
+Our goals for this phase are to teach you the disciplines that will enable you
+to have discussions in interviews where you are being assessed on:
+
+* your ability to understand technical architecutres and discuss their merits
+* the ability to ship code that has reasonable quality control (tests, clean git commits) around it
+* the ability to collaborate on a multi-day project _as a team_ under guidance of a non-technical influence
+
 ## TL;DR
 
 Finish the core work listed here by Monday morning.
