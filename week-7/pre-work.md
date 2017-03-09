@@ -48,19 +48,13 @@ directions in the guide).
 For deployment, you'll need to sign up for Heroku if you haven't already. See
 the [Heroku docs for Rails 5][Heroku Rails5].
 
-
-Only use generators once to see what they do.  It is expected that you will
-only use _migration_ generators in this phase. Generators are for coders who
-have done stuff by hand so many times that the process has become boring, not
-for coders who have done stuff by hand so few times that the process is still
-tricky. Seriously, you'll thank yourself later for being diligent now and
-letting your fingers start remembering how those files come together.
-
-We'll be bending and flexing a lot in Phase 3. It will be hard. It will
-challenge you. I know you can all do it. Expect to dip into your panic zone,
-but reach out. Rails is a big framework and it can feel overwhelming. All the
-teachers in the space can answer your questions. We're all here for you. Ping
-us, get unstuck, then get back at it.
+You may see documentation or hear from others about Rails' generators. Do not
+use them to create code. Unless used carefully they will add features you don't
+need and confuse issues that are really quite simple. They're handy when you're
+without wifi and can't remember something &mdash; but they're not something you
+should lean on. Most professional Rails developers never use the generators.
+Seriously, you'll thank yourself later for being diligent now and letting your
+fingers start remembering how those files come together.
 
 Phase 3 is about ramping up for the real world. You'll be treated less like
 students and more like professional developers. Answers will not be served on a
