@@ -34,4 +34,4 @@
 - [ES6 Feature List][es6f]
 - [React ES6-ES5 and React-Ruby](http://panw.weebly.com/programming/translation-for-react-es5-es6-and-if-react-was-in-ruby)
 
-[ES6 Feataures][es6f]: http://es6-features.org
+[ES6 Feataures]: http://es6-features.org
