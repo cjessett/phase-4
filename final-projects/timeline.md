@@ -47,13 +47,15 @@ scratch!
 
 ## Day 7 | Wednesday
 
-- UI/UX Review
-- [Presentation: Outline](./presentations.md)
+- Walkthrough with instructors
+- **Afternoon: Feature freeze (no new features)**
+- Fix bugs, polish your UI and improve test coverage *for BREAKING bugs ONLY*
 
 ## Day 8 | Thursday
 
-- **Feature freeze (no new features)**
-- Fix bugs, polish your UI and improve test coverage *for BREAKING bugs ONLY*
+Presentations are the focus today, starting at 9am. No teams should be coding until the presentations are done and a representative of the teachers and careers teams has given you a thumbs up. Once your presentations are solid, you _need to continue to practice_, but you can also code.
+
+- [Presentation: Outline](./presentations.md)
 - Figure out your app demo for tomorrow, and use that to guide your bug fixing.
 - Do a final deploy and run through your app demo in production.
 - Shower - seriously, please shower
@@ -64,6 +66,5 @@ scratch!
 - **Code freeze still in effect (no code, database or UI changes at all)**
 - Put together your presentations as a team and practice them
 - Presentations to DBC
-- Last DBC Rite of Passage
 - Graduation
 - Celebrate!
