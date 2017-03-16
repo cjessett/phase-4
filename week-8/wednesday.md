@@ -1,5 +1,5 @@
 ## Wednesday
-### React (1/2 -- Continued)
+### React (2/2 -- Continued)
 
 ### Core
 
