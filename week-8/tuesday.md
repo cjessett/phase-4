@@ -5,7 +5,7 @@
 
 **Challenges**
 
-- [Lil Twitter React](../../../../lil-twitter-react)
+- [Lil Twitter React](../../../../lil-twitter-react-challenge)
 
 ### Very Advanced Patterns in JavaScript
 
