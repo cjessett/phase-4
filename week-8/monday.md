@@ -19,7 +19,7 @@ Gemsy Talks
 
 _NOTE_: This pattern of static page, unto components, unto data binding, unto bells and
 whistles is a great way to attack building JavaScript front-end apps and
-should be repeated tomorrow and Wednesday. Reflect on it!
+should be repeated tomorrow and Wednesday. Reflect on it! The [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) video actually follows this same approach!
 
 **Reference**
 
