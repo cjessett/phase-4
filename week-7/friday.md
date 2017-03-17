@@ -16,7 +16,7 @@
 
 * ES5 v. ES6
 * Browser understanding of ES6
-* Transpilation
+* Transpilation and Building ES6 Code (Node, Webpack / Grunt / Gulp?)
 * Big Features
     * `const`
     * `let`
