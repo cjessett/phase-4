@@ -15,7 +15,7 @@ Gemsy Talks
 
 **Stretch**
 
-- Grocery list with React + Ajax + Drag and Drop)
+- Grocery list with React + Ajax + Drag and Drop
 
 _NOTE_: This pattern of static page, unto components, unto data binding, unto bells and
 whistles is a great way to attack building JavaScript front-end apps and
