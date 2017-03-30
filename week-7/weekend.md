@@ -10,8 +10,7 @@ For ideas see [Gemsy Talk Topic](../resources/gemsy_talk_topics.md)
 
 **Rails Checkpoint**
 
-Work on this solo [rails checkpoint
-challenge](../../../../rails-checkpoint-challenge) and submit a PR for review
+Work on this solo [rails checkpoint challenge](../../../../rails-checkpoint-challenge) and submit a PR for review
 when you are finished.  Please finish it before Monday. You should observe the
 same care and discipline that you observed in the group project. This solo
 project, the group project, and what you learn in your final projects will
@@ -23,6 +22,14 @@ write tests for it?) until you're _as good as the originator_.
 Great developers are always learning from each other and using the code to
 commune with other minds.
 
+While it's tempting to focus on the new, shiny thing of NodeJS and NPM, please
+complete this with your best effort. Many full-stack developers are fluent
+in a (Ruby+Rails / Python+Django) **and** JavaScript+Node pairing. We've seen
+Node developers, mid-project, utter "Shoulda done this in Rails..." We've seen
+Node apps globally die suddenly because of package bundling issues. The ability
+to think and reason by analogy and across platforms is a superpower. Don't lose
+the chance to gain it by choosing to be monolingual.
+
 **Firm Up ES6 Syntax**
 
 Firm up your mastery of the JavaScript thorny points and practice using ES6.
@@ -32,8 +39,6 @@ from assessments and see if you can make them just as easily in ES6 syntax.
 
 Make sure you understand the relationship between words like _transpilation_
 and _Babel_.
-
-**TODO**: Are these teh techs we're going with?
 
 **Solo Project**
 
