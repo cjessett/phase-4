@@ -27,7 +27,7 @@
 * Create an introductory [NodeJS][] application with access to the `npm` ecosystem
 * Use ES6 to build out a JavaScript implementation that passes tests written in Mocha
 
-** Challenges **
+**Challenges**
 
 * Build a NodeJS App and TDD an App using ES6 (newest JavaScript Standard): [Built a NodeJS sandbox in which to TDD "drive" an a model built in ES6](../../../../nodejs-sandbox-and-tdd-es6-model-challenge)
 * Take a Phase 1 challenge (Week 1 or Week 2) and migrate it to NodeJS; Build a web server that honors RESTful conventions
