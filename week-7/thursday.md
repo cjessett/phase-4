@@ -49,7 +49,7 @@ Note any weakness and see if you an address it with the help of the following
 resources. If you require further help, bring questions to school tomorrow.
 
 1. Watch [JS Scope](https://www.youtube.com/watch?v=SBwoFkRjZvE)
-1. Watch [JS Closure](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84))
+1. Watch [JS Closure](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 1. Watch [JS `this` and `bind`](https://www.youtube.com/watch?v=PIkA60I0dKU)
 1. Watch [What the heck is the event loop?](https://youtu.be/8aGhZQkoFbQ)
-1. Watch [JS Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&index=8&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
+1. Watch [JS Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&index=8&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
