@@ -48,7 +48,7 @@ scratch!
 ## Day 7 | Wednesday
 
 - Walkthrough with instructors
-- **Afternoon: Feature freeze (no new features)**
+- **After Lunch: Feature freeze (no new features)**
 - Fix bugs, polish your UI and improve test coverage *for BREAKING bugs ONLY*
 
 ## Day 8 | Thursday
