@@ -11,6 +11,8 @@
 
 [Client Project](../../../../client-project-challenge)
 
-Today, you will demo your project to your cohort first thing in the morning.
+Today, you will:
 
-Then you'll spend the day with our career developers laying the foundation for your job hunt.
+- continue working on your client features in the morning
+- spend some time finalizing your project (styling, refactoring, adding documentation, etc.)
+- demo your project to your cohort
