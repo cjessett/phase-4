@@ -13,6 +13,7 @@
 - [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 
 **Prep for Tomorrow**
+
 - Watch [Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
