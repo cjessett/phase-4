@@ -27,21 +27,20 @@ Tomorrow you will:
 
 **Prep for Tomorrow**
 
-As we close out our work on building a Rails project, we're now going to pivot
-to talking about JavaScript. JavaScript, as you know, rides on top of content
-delivered by a web server, in our case, Rails.
+Tomorrow we will pivot to "Advanced Topics in JavaScript: ES6, `node`, `npm`,
+and ReactJS." These are exciting technolgies that are very much in demand.
 
-We will be exploring advanced frameworks that organize and discipline our use of
-JavaScript. Our focus will be React. We will also introduce another popular web
-server paradigm: NodeJS.
+We will learn to write JavaScript applications on the server that you use from
+the command-line using NodeJS and its package ecosystem, `npm`. We will also
+use those tools to build web servers which serve complex JavaScript
+applications written in ES6 and then translated to ReactJS. By doing to you'll
+understan the _why_ of React _as well as_ the _what to type_ of React.
 
-Both the NodeJS ecosystem and React are advanced usages of JavaScript. **YOUR USE
-OF THEM WITHOUT GRASP OF THE FIVE POINTS LISTED BELOW WILL NOT BE SUFFICIENT
-TO LAND YOU A JOB.** While employers and future team-mates love to see a lively
-portfolio site with the latest technology you have used, we can assure you that
-your interview will involve explaining your grasp of one if not all of these
-concepts. Engage with this material deeply for it is key to getting the most
-out of your time studying these concepts at DBC.
+Both the NodeJS ecosystem and React are advanced usages of JavaScript. In order
+to ensure that you're struggling to follow this new material, you need to fully
+understand these following five topics. For the record, they're also common
+interview topics, so understanding these topics is practical for understanding
+theory _as well as_ getting past a phone screen.
 
 Get an objective measure of your comfort with the [JavaScript Interview Exercise](https://github.com/nyc-coyotes-2016/p2-javascript-interview-exercises/blob/master/javascript-fundamentals.md)
 
@@ -49,7 +48,17 @@ Note any weakness and see if you an address it with the help of the following
 resources. If you require further help, bring questions to school tomorrow.
 
 1. Watch [JS Scope](https://www.youtube.com/watch?v=SBwoFkRjZvE)
-1. Watch [JS Closure](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-1. Watch [JS `this` and `bind`](https://www.youtube.com/watch?v=PIkA60I0dKU)
-1. Watch [What the heck is the event loop?](https://youtu.be/8aGhZQkoFbQ)
-1. Watch [JS Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&index=8&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+2. Watch [JS Closure](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+3. Watch [JS `this` and `bind`](https://www.youtube.com/watch?v=PIkA60I0dKU)
+4. Watch [What the heck is the event loop?](https://youtu.be/8aGhZQkoFbQ)
+5. Watch [JS Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&index=8&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
+By the end of the day tomorrow, you should be able to accomplish the following:
+
+Task 1: Use `node` to execute a file of JavaScript; to run a REPL
+Task 2: Configure a directory ready for using Node and NPM
+Task 3: Discover documentation in Node docs for working with filesystem
+Task 4: Build a simple Unix-based utility using Node + NPM and JavaScript
+Task 5: Extend a simple Unix application with an NPM-based package
+Task 6: Construct Node-driven test sandbox in which to run failing tests
+Task 8: Use ES6 to remediate failing unit tests and are introduced to several structures of ES6

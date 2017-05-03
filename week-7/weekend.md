@@ -37,8 +37,15 @@ Build trivial apps where you get to try out new ES6 SUPER POWERS. Make sure you
 can model a `Dog` or a `Guitar` using the new `class` syntax. Revisit ideas
 from assessments and see if you can make them just as easily in ES6 syntax.
 
-Make sure you understand the relationship between words like _transpilation_
-and _Babel_.
+Concepts you need to have firmly squared away are:
+
+1. [JS Scope](https://www.youtube.com/watch?v=SBwoFkRjZvE)
+2. [JS Closure](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+3. [JS `this` and `bind`](https://www.youtube.com/watch?v=PIkA60I0dKU)
+4. [What the heck is the event loop?](https://youtu.be/8aGhZQkoFbQ)
+5. [JS Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&index=8&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+6. Setting up a Node project directory
+7. Core ES6 language constructs: `class`, `() => {}` "fat-arrow function definitions", and `...` the "destructuring" operator
 
 **Solo Project**
 

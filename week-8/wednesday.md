@@ -1,17 +1,40 @@
 ## Wednesday
-### React (2/2 -- Continued)
 
-### Core
+### React: Integrating / Practicing &amp; Top-Down ("Data-Driven" Designs)
 
-**Discussion**
+## Goal
 
-Legacy, but powerful JavaScript Patterns
+After this day, students will be able to:
 
-* JavaScript Module Pattern
-* IIFE (Instantly Invoked Function Expression)
+* Process a data blob into a React site ("top-down architecture")
+
+## Importance
+
+In Day 3 we were lucky, we had our Components specified for us and we had a
+back-end API that was tailor made to fill the Components we _saw_. But what if
+you don't get a UI that you get to mark up, what if you get a big ol' JSON
+Object?
+
+While the technology choices don't change, we have to approach our design a
+little bit differently. Instead of _seeing_ based on a mockup or a static site,
+we have to _see_ based on looking at a JSON Object.
+
+## Tasks
+
+By being able to execute the following tasks, you will have learned the
+material for the day and can corroborate your learning.
+
+Task 1: Build a mock-up from a JSON Object
+
+## Lecture 1: Data-Driven Designs
 
 **Challenges**
-[Lil Twitter](../../../../lil-twitter-react-challenge)
+
+Make sure your [lil Twitter](../../../../lil-twitter-react-challenge) was able
+to render the timeline with tweet components with data returned from an AJAX
+call. Tune up any weaknesses from the last 2 days now.
+
+If you're very comfortable, move on to: [my-own-reddit-react-challenge]()
 
 **Get Ready for Final Projects**
 
