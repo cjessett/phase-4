@@ -47,13 +47,16 @@ Find your weekly groups [here](./resources/groups.md).
 
 - Careers and Final Project Presentations:
   - Sometime this phase: set up time to do Action Planning with your Career Developer
-  - Week 2 Thursday: Pitch Day!
+      - [Book a time for Action Planning with Molly](https://officehours_mo.youcanbook.me/)
+      - [Book a time for Action Planning with Katy](https://officehours_km.youcanbook.me/)
+  - Week 2 Thursday: 
+      - Pitch Day!
+      - Resume Due to Career Developer
   - Week 3 Wednesday: 
       - Careers/Presentation Expectations at 12:15pm
       - Final Project Blurb due for Program
   - Week 3 Thursday: 
-    - Careers Presentation Feedback I at 10:30am
-    - Resume Due to Career Developer 
+    - Careers Presentation Feedback I at 10:30am 
     - Teacher Presentation Feedback in Afternoon 
     - Email sent to Students & Employers attending Graduation
   - Week 3 Friday:
