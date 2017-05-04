@@ -45,8 +45,20 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Careers:
-  - Friday Week 3 - Chat about upcoming Career week at 1:15 
+- Careers and Final Project Presentations:
+  - Sometime this phase: set up time to do Action Planning with your Career Developer
+  - Week 2 Thursday: Pitch Day!
+  - Week 3 Wednesday: 
+      - Careers/Presentation Expectations at 12:15pm
+      - Final Project Blurb due for Program
+  - Week 3 Thursday: 
+    - Careers Presentation Feedback I at 10:30am
+    - Resume Due to Career Developer 
+    - Teacher Presentation Feedback in Afternoon 
+    - Email sent to Students & Employers attending Graduation
+  - Week 3 Friday:
+    - Careers & Teachers Presentation Feedback around 10:30am
+    - Graduation!
 
 ## Daily Cadence (before Final Projects)
 
