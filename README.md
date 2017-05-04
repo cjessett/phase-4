@@ -46,6 +46,7 @@ Find your weekly groups [here](./resources/groups.md).
 ## Weekly Cadence
 
 - Careers and Final Project Presentations:
+  - Sometime this phase: set up time to do Action Planning with your Career Developer
   - Week 2 Thursday: Pitch Day!
   - Week 3 Wednesday: 
       - Careers/Presentation Expectations at 12:15pm
