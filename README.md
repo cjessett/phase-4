@@ -47,6 +47,8 @@ Find your weekly groups [here](./resources/groups.md).
 
 - Careers and Final Project Presentations:
   - Sometime this phase: set up time to do Action Planning with your Career Developer
+      - [Book a time for Action Planning with Molly](https://officehours_mo.youcanbook.me/)
+      - [Book a time for Action Planning with Katy](https://officehours_km.youcanbook.me/)
   - Week 2 Thursday: 
       - Pitch Day!
       - Resume Due to Career Developer
