@@ -11,6 +11,8 @@
 
 ----
 
+## Beginning Advanced Topics in JavaScript: `node`, `npm`, and ReactJS
+
 ## Goal
 
 After this day, students will be able to:
@@ -30,20 +32,51 @@ After this day, students will be able to:
 ### Node and NPM
 
 As mentioned in the overview, the expansion of JavaScript into the back-end
-context has been one of the most interesting expansions of JavaScript over the
-last 10 years. More and more employers are looking for this skillset as a
-differentiator.
+context has been one of the most interesting changes of JavaScript over the
+last 10 years. More and more employers are looking for this skillset in itself.
+So, it's good for interviewing.
 
-Also, certain technologies have come to recognize the maturity of the `node`
-and `npm` ecosystem. As of Rails 5.1, Rails will delegate management of
-JavaScript assets to `webpack`, a tool for JavaScript preparation provided by
-`npm` and executed by `node`.
+Also, certain technologies e.g. Rails have come to recognize the maturity of
+the `node` and `npm` ecosystem. As of Rails 5.1, Rails will delegate management
+of JavaScript assets to `webpack`, a tool for JavaScript preparation provided
+by `npm` and executed by `node`. This trend will likely continue. So learning
+`node` and `npm` will set you up for "integration-style" changes such as these.
 
-The basic tool for scaffolding React applications, `create-react-app`, also is
-delivered as an `npm` module.
+`npm` provides a rich system of packages, like Rubygems. As such you can
+leverage the work of others in many situations. For example, the basic tool for
+scaffolding React applications that we'll be using, `create-react-app`,  is
+delivered as an `npm` module. The `npm` collection of packages recently became
+the largest shared-code repository in the world. The ability to leverage this
+asset will allow you to ship more-ambitious applications faster.
 
-Being able to deliver basic command-line tools such as seen in DBC's Ruby Phase
-1 should be possible upon completion of this material.
+Lastly, `node` excels at certain types of application. The way it handles
+multiple, persistent activites is every efficient and is called "non-blocking."
+The same asynchronous behavior that makes working with AJAX calls tricky leaves
+the computer millions of opportunities where it, instead of waiting idly for a
+response, can toss work into a background queue and _do other work_. Building
+applications that maintain many, long-term, frequently-idle connections is more
+efficiently done with `node` as the back end. In similar comparisons to Python,
+Ruby, or Java, `node` benchmarks as much as _3-times more efficient_! The
+trade-off for that efficiency is applying the patterns of thought and
+programming we learned from JavaScript in the browser, to the operating system.
+
+Applications where `node` initially made big splashes was in creating chat
+servers that worked with browsers. Given that a chat server would manage *many,
+long-term, frequently-idle (web-)sockets*, it was a natural fit. Since `node`
+grew up in the shadow of Rails, it wasn't long before it was used to build a
+full-stack web server since, after all, a web server maintains *many,
+long-term, frequently-idle (web request) sockets*.
+
+At the highest level `node` runs JavaScript code to do things in the shell
+environment. That's it. The `python` program runs Python code to do things in
+the shell; the `ruby` program runs Ruby code to do things in the shell; the
+`node` program runs JavaScript code to do things in the shell. Ruby leverages
+gems from `rubygems`; Python leverages the `pip` system; `node` uses `npm`.
+While Ruby used a `gem` command to work with packages, we'll use a command
+called `yarn` for working with `npm`.
+
+After this session you should be able to deliver basic command-line tools such
+as seen in DBC's Ruby Phase 1.
 
 ### Conquering "The Black Screen"
 
