@@ -67,15 +67,13 @@ to understand the idioms presented in React example code.
 By being able to execute the following tasks, you will have learned the
 material for the day and can corroborate your learning.
 
-Task 1: Use `node` to execute a file of JavaScript; to run a REPL
-Task 2: Configure a directory ready for using Node and NPM
-Task 3: Discover documentation in Node docs for working with filesystem
-Task 4: Build a simple Unix-based utility using Node + NPM and JavaScript
-Task 5: Extend a simple Unix application with an NPM-based package
-Task 6: Construct Node-driven test sandbox in which to run failing tests
-Task 7: Use ES6 to remediate failing unit tests and are introduced to several structures of ES6
-
-[ECMAScript 6]: https://en.wikipedia.org/wiki/ECMAScript
+* Task 1: Use `node` to execute a file of JavaScript; to run a REPL
+* Task 2: Configure a directory ready for using Node and NPM
+* Task 3: Discover documentation in Node docs for working with filesystem
+* Task 4: Build a simple Unix-based utility using Node + NPM and JavaScript
+* Task 5: Extend a simple Unix application with an NPM-based package
+* Task 6: Construct Node-driven test sandbox in which to run failing tests
+* Task 7: Use ES6 to remediate failing unit tests and are introduced to several structures of ES6
 
 ## Lecture 1 (~ 60m) (mid-morning)
 
@@ -140,3 +138,4 @@ teaching.
 [NPM]: https://www.npmjs.com
 [Node Stdlib]: https://nodejs.org/dist/latest-v7.x/docs/api/
 [es6f]: http://es6-features.org
+[ECMAScript 6]: https://en.wikipedia.org/wiki/ECMAScript

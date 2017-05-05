@@ -55,10 +55,10 @@ resources. If you require further help, bring questions to school tomorrow.
 
 By the end of the day tomorrow, you should be able to accomplish the following:
 
-Task 1: Use `node` to execute a file of JavaScript; to run a REPL
-Task 2: Configure a directory ready for using Node and NPM
-Task 3: Discover documentation in Node docs for working with filesystem
-Task 4: Build a simple Unix-based utility using Node + NPM and JavaScript
-Task 5: Extend a simple Unix application with an NPM-based package
-Task 6: Construct Node-driven test sandbox in which to run failing tests
-Task 8: Use ES6 to remediate failing unit tests and are introduced to several structures of ES6
+* Task 1: Use `node` to execute a file of JavaScript; to run a REPL
+* Task 2: Configure a directory ready for using Node and NPM
+* Task 3: Discover documentation in Node docs for working with filesystem
+* Task 4: Build a simple Unix-based utility using Node + NPM and JavaScript
+* Task 5: Extend a simple Unix application with an NPM-based package
+* Task 6: Construct Node-driven test sandbox in which to run failing tests
+* Task 8: Use ES6 to remediate failing unit tests and are introduced to several structures of ES6
