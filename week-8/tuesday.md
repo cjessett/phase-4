@@ -18,14 +18,16 @@ As we saw in yesterday, our Widget architecture is not "enforced." It's a
 practice that leads to scalable UIs, but there's little error checking to
 ensure people follow that architecture. Facebook has built a framework that
 enshrines the Widget approaches of Day 2 and adds some nice features that
-lowers the typing.
+reduces the amount of typing.
 
 As we swap our the DBC "Pre-React" (Preact? Tee-hee) methodology for full
 React, we'll continue to experience that we've seen the problems React solves
 and now we're just changing our syntax.
 
 We'll also take advantage of the Node + NPM ecosystem to get a React skeleton
-up and running quickly.
+up and running quickly (Day 1). We'll be writing the React code in ES6 (Day 1).
+We're pulling together the first three days to make writing React as simple as
+possible.
 
 ## Tasks
 
