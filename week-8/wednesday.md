@@ -17,7 +17,9 @@ Object?
 
 While the technology choices don't change, we have to approach our design a
 little bit differently. Instead of _seeing_ based on a mockup or a static site,
-we have to _see_ based on looking at a JSON Object.
+we have to _see_ based on looking at a JSON Object. We'll practice that today
+but also integrate our learnings from the first 3 days so that they're
+comfortable for us to use future projects.
 
 ## Tasks
 
