@@ -33,21 +33,24 @@ and produce the code needed to meet the complexity of the requested feature.
 Today we will introduce you to a series of problems that you will tackle using
 plain JavaScript (ES6 permitted!) and your Node + NPM environments. Having
 learned to _see_ the problems and having coded solutions by hand in native
-JavaScript you will be amused or thankful that React saves you some typing or
-provides some consistent practice &mdash; _but the framework's purpose and
-goals will have already been understood_! Our goal, then, is to discover for
-ourselves "**The Why of React**."
+JavaScript, you will be amused and / or thankful that React saves you some
+typing or provides some consistent practice &mdash; _but the framework's
+purpose and goals will have already been understood_ and coded by you! Our
+goal, then, is to discover for ourselves "**The Why of React**."
 
 By doing so, you'll be able to speak about React and its design, consider what
-*all* JavaScript frameworks (Angular, Ember, Elm) have as core problems, and
-sleep confidently knowing you have a profound depth of understanding of React's
-design decisions.
+*all* JavaScript frameworks (Angular, Ember, Elm) have as core problems to
+solve, and sleep confidently knowing you have a profound depth of understanding
+of React's design decisions. You won't be "in the restaurant" in terms of
+React, you'll be "in the kitchen" around _all_ JavaScript MVC frameworks.
 
 Amazingly enough, many of these concepts event port to iOS development as well
-where you literally "drag graphics" ("Widgets") onto a canvas and then wire up
-the events to a central controller. So, by absorbing this module, you'll be
-ready to appreciate how both React and iOS approach building complex
+where you literally drag screen elements ("Widgets") onto a canvas and then
+wire up the events to a central controller. So, by absorbing this module,
+you'll be ready to appreciate how both React and iOS approach building complex
 interfaces.
+
+It's an intense day chocked-full of value.
 
 ## Tasks
 
@@ -79,11 +82,11 @@ material for the day and can corroborate your learning.
 
 **Feedback**
 
+
 Please complete this feedback before end of day so that we may tune our
 delivery for tomorrow.
 
 https://goo.gl/forms/pe3TmCP3wkGw9lfh2
-
 
 **Prepare for Tomorrow**
 
