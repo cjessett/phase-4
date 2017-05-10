@@ -36,6 +36,13 @@ call. Tune up any weaknesses from the last 2 days now.
 
 If you're very comfortable, move on to: [my-own-reddit-react-challenge]()
 
+**Feedback**
+
+Please complete this feedback before end of day so that we may tune our
+delivery for tomorrow.
+
+https://goo.gl/forms/D21Latnx79apBprD2
+
 **Get Ready for Final Projects**
 
 - Investigate the feasiblity of your pitches

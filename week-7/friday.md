@@ -146,6 +146,14 @@ If you're looking to stay in the stretch zone you might consider:
   is colored another. Ultimately inventing hurdles to provide you opportunity
   to create mastery is what will guarantee your career longevity in tech!
 
+**Feedback**
+
+Please complete this feedback before end of day so that we may tune our
+delivery for next week.
+
+https://goo.gl/forms/x3k6iA9X5fRfQz6n2
+
+
 **Weekend**
 
 We're almost to final projects. This is a weekend to make sure you're ready to
