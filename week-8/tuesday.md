@@ -64,3 +64,10 @@ Task 8: Iterate through a collection in JSX
 
 * [Translator Widget in React](../../../../number-base-converter-react-challenge)
 * [Lil' Twitter](../../../../lil-twitter-react-challenge)
+
+**Feedback**
+
+Please complete this feedback before end of day so that we may tune our
+delivery for tomorrow.
+
+https://goo.gl/forms/ZZihuELidYT9lQL32

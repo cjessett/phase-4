@@ -2,7 +2,7 @@
 
 Add your name and talk topic to the day you would like to give it!  If more slots are needed, add them.  Everyone will do one of each type of talk.
 
-No talks after Wednesday due to final projects.
+No talks after Wednesday of week 2 due to final projects.
 
 ## Railsy Talks
 
