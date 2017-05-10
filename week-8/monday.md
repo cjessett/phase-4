@@ -80,6 +80,14 @@ material for the day and can corroborate your learning.
 
 # THE NEXT SESSION IS VERY INTENSE: ARRIVE ON-TIME, WITH NOTEBOOK, READY TO GO
 
+**Feedback**
+
+Please complete this feedback before end of day so that we may tune our
+delivery for tomorrow.
+
+https://goo.gl/forms/pe3TmCP3wkGw9lfh2
+
+
 **Prepare for Tomorrow**
 
 - **React**
