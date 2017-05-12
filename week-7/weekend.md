@@ -37,6 +37,24 @@ Build trivial apps where you get to try out new ES6 SUPER POWERS. Make sure you
 can model a `Dog` or a `Guitar` using the new `class` syntax. Revisit ideas
 from assessments and see if you can make them just as easily in ES6 syntax.
 
+**The Widget Pattern**
+
+On Monday we'll cover a DBC-grown paradigm called "The Widget Pattern." It's
+not proprietary, but it's "React with the guts exposed." This is a very
+difficult day's work. I'd invite you to watch the lectures ahead of the lecture
+that will repeat, more or less, the same content. Watch the videos for the
+general "shape" and gist. This should make the lecture less challenging on
+Monday
+
+* https://talks.devbootcamp.com/node-and-npm-web-server : a re-hash of what we did today (setting things up) but gateways into what we'll cover Monday morning.
+* https://talks.devbootcamp.com/click-counter-no-widget : a baseline implementation that should be familiar to p2 grads
+* https://talks.devbootcamp.com/click-counter-widget : a different style of solution
+
+**RED ALERT**
+
+If you are fuzzy on these, and you shouldn't be, make **sure** you understand these
+before Monday.
+
 Concepts you need to have firmly squared away are:
 
 1. [JS Scope](https://www.youtube.com/watch?v=SBwoFkRjZvE)
