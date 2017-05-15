@@ -73,6 +73,10 @@ material for the day and can corroborate your learning.
 
 **Challenges**
 
+**Resource**
+
+* [Handout: Creating Widgets](../resources/widget_creation_process.html)
+
 **Core**
 
 * [Translator Widget](../../../../number-translator-widget-challenge)
