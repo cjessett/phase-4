@@ -60,6 +60,10 @@ Task 8: Iterate through a collection in JSX
 
 **Challenges**
 
+**Resources**
+
+* [Component Creation Guidelines](../resources/component_creation_process.html)
+
 **Core**
 
 * [Translator Widget in React](../../../../number-base-converter-react-challenge)
