@@ -1,19 +1,18 @@
 ## Wednesday
 
-### React: Integrating / Practicing &amp; Top-Down ("Data-Driven" Designs)
+### React: Continued Work with React
 
 ## Goal
 
-After this day, students will be able to:
-
-* Process a data blob into a React site ("top-down architecture")
+* Keep honing Lil Twitter
+* (Instructor Discretion) Process a data blob into a React site ("top-down architecture")
 
 ## Importance
 
-In Day 3 we were lucky, we had our Components specified for us and we had a
-back-end API that was tailor made to fill the Components we _saw_. But what if
-you don't get a UI that you get to mark up, what if you get a big ol' JSON
-Object?
+(Instructor Discretion) In Day 3 we were lucky, we had our Components specified
+for us and we had a back-end API that was tailor made to fill the Components we
+_saw_. But what if you don't get a UI that you get to mark up, what if you get
+a big ol' JSON Object?
 
 While the technology choices don't change, we have to approach our design a
 little bit differently. Instead of _seeing_ based on a mockup or a static site,
@@ -23,20 +22,13 @@ comfortable for us to use future projects.
 
 ## Tasks
 
-By being able to execute the following tasks, you will have learned the
-material for the day and can corroborate your learning.
-
-Task 1: Build a mock-up from a JSON Object
+## (Teacher Discretion) Lecture 1: Data-Driven Designs OR Lil Twitter Timeline Livecode
 
 ## Lecture 1: Data-Driven Designs
 
 **Challenges**
 
-Make sure your [lil Twitter](../../../../lil-twitter-react-challenge) was able
-to render the timeline with tweet components with data returned from an AJAX
-call. Tune up any weaknesses from the last 2 days now.
-
-If you're very comfortable, move on to: [my-own-reddit-react-challenge]()
+If you're very comfortable building interfaces in React, move on to [my-own-reddit-react-challenge]()
 
 **Feedback**
 

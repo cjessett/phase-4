@@ -69,6 +69,22 @@ Task 8: Iterate through a collection in JSX
 * [Translator Widget in React](../../../../number-base-converter-react-challenge)
 * [Lil' Twitter](../../../../lil-twitter-react-challenge)
 
+**Note**
+
+Lil Twitter is an extremely difficult challenge. It brings together React,
+Rails, CRUD, ActiveRecord &mdash; everything! You might expect as much from a
+challenge that's coming at the end of your DBC experience.
+
+Remember to follow the mockup, static, Component process. Proceed by making
+small changes and verifying things work. Don't think that you can "see it all"
+in the code. Very small errors in a big pile feel impossible while small errors
+found singly feel like minor bumps in the road.
+
+You should not expect to finish LilTwitter in one afternoon. Its work will
+extend over into tomorrow. In Day 4 we'll do a live-code of the "Timeline" in
+lil Twitter. Give it your best effort and we'll share what we've learned
+tomorrow.
+
 **Feedback**
 
 Please complete this feedback before end of day so that we may tune our
