@@ -30,13 +30,6 @@ comfortable for us to use future projects.
 
 If you're very comfortable building interfaces in React, move on to [my-own-reddit-react-challenge]()
 
-**Feedback**
-
-Please complete this feedback before end of day so that we may tune our
-delivery for tomorrow.
-
-https://goo.gl/forms/D21Latnx79apBprD2
-
 **Get Ready for Final Projects**
 
 - Investigate the feasiblity of your pitches

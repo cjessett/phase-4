@@ -84,10 +84,3 @@ You should not expect to finish LilTwitter in one afternoon. Its work will
 extend over into tomorrow. In Day 4 we'll do a live-code of the "Timeline" in
 lil Twitter. Give it your best effort and we'll share what we've learned
 tomorrow.
-
-**Feedback**
-
-Please complete this feedback before end of day so that we may tune our
-delivery for tomorrow.
-
-https://goo.gl/forms/ZZihuELidYT9lQL32
