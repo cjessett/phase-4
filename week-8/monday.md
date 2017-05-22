@@ -61,12 +61,13 @@ material for the day and can corroborate your learning.
 * Task 2: Identify atomic widget(s) from a mockup and create
 * Task 3: Establish centralized, unidirectional data flow for communication between Widgets thus "composing" them
 
-## Lecture I: Building Widgets from Mockups Using ES6
+## Morning Breakout
 
-* Task 1: Name steps in mockup, static, widget design strategy
-* Task 2: Identify atomic widget(s) from a mockup and create
+* **Q&A on Video Content:**
+  * Task 1: Name steps in mockup, static, widget design strategy
+  * Task 2: Identify atomic widget(s) from a mockup and create
 
-## Lecture II: Owning State Between Widgets
+## Afternoon Breakout
 
 * Gemsy Talks
 * Task 3: Establish centralized, unidirectional data flow for communication between Widgets thus "composing" them
