@@ -44,10 +44,10 @@ The following videos will be used to prepare you for work tomorrow:
 * https://talks.devbootcamp.com/p3-js-module-day-01-lo-6-7
 
 Both the NodeJS ecosystem and React are advanced usages of JavaScript. In order
-to ensure that you're struggling to follow this new material, you need to fully
-understand these following five topics. For the record, they're also common
-interview topics, so understanding these topics is practical for understanding
-theory _as well as_ getting past a phone screen.
+to ensure that you're **not** struggling to follow this new material, you
+**need** to fully understand these following five topics. For the record,
+they're also common interview topics, so understanding these topics is
+practical for understanding theory _as well as_ getting past a phone screen.
 
 1. Get an objective measure of your comfort with the
    [JavaScript InterviewExercise][interview].  Note any weakness and see if you an address it with the
