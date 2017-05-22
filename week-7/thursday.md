@@ -36,6 +36,13 @@ use those tools to build web servers which serve complex JavaScript
 applications written in ES6 and then translated to ReactJS. By doing to you'll
 understan the _why_ of React _as well as_ the _what to type_ of React.
 
+The following videos will be used to prepare you for work tomorrow:
+
+* https://talks.devbootcamp.com/p3-js-module-day-01-lo-1
+* https://talks.devbootcamp.com/p3-js-module-day-01-lo-2
+* https://talks.devbootcamp.com/p3-js-module-day-01-lo-3-5
+* https://talks.devbootcamp.com/p3-js-module-day-01-lo-6-7
+
 Both the NodeJS ecosystem and React are advanced usages of JavaScript. In order
 to ensure that you're struggling to follow this new material, you need to fully
 understand these following five topics. For the record, they're also common
