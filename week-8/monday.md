@@ -88,6 +88,7 @@ material for the day and can corroborate your learning.
 **Prepare for Tomorrow**
 
 - **React**
+  * https://talks.devbootcamp.com/basic-react
   - Read [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
   - Read React intro [blog](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
   - Watch [intro to JSX](https://frontendmasters.com/courses/react-intro/#v=mc66igcb45)

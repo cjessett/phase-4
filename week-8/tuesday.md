@@ -58,6 +58,8 @@ Task 8: Iterate through a collection in JSX
 * Task 7: Build a React Component around a Form
 * Task 8: Iterate through a collection in JSX
 
+For demonstrations on this topic see: https://talks.devbootcamp.com/topics-in-react
+
 **Challenges**
 
 **Resources**
