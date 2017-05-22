@@ -46,9 +46,9 @@ that will repeat, more or less, the same content. Watch the videos for the
 general "shape" and gist. This should make the lecture less challenging on
 Monday
 
-* https://talks.devbootcamp.com/node-and-npm-web-server : a re-hash of what we did today (setting things up) but gateways into what we'll cover Monday morning.
 * https://talks.devbootcamp.com/click-counter-no-widget : a baseline implementation that should be familiar to p2 grads
-* https://talks.devbootcamp.com/click-counter-widget : a different style of solution
+* https://talks.devbootcamp.com/p3-js-module-day-02-lo-1-2 : a new style implementation using Widgets that don't share data
+* https://talks.devbootcamp.com/p3-js-module-day-02-lo-3 : a new style implementation using Widgets that **do** share data
 
 **RED ALERT**
 
