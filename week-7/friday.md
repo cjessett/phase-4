@@ -128,7 +128,7 @@ material for the day and can corroborate your learning.
   * Task 5: Extend a simple Unix application with an NPM-based package
 * Brief Demo: Creating a small Unix App with Node + NPM
 
-## Morning Breakout
+## Afternoon Breakout
 
 * Brief Demo: Creating a small Unix App with Node + NPM
 
