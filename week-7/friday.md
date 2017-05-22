@@ -118,19 +118,19 @@ material for the day and can corroborate your learning.
 * Task 6: Construct Node-driven test sandbox in which to run failing tests
 * Task 7: Use ES6 to remediate failing unit tests and are introduced to several structures of ES6
 
-## Lecture 1 (~ 60m) (mid-morning)
+## Morning Breakout
 
-* **Q&A**
-* Task 1: Use `node` to execute a file of JavaScript; to run a REPL
-* Task 2: Configure a directory ready for using Node and NPM
-* Task 3: Discover documentation in Node docs for working with filesystem
-* Task 4: Build a simple Unix-based utility using Node + NPM and JavaScript
-* Task 5: Extend a simple Unix application with an NPM-based package
+* **Q&A on Video Content:**
+  * Task 1: Use `node` to execute a file of JavaScript; to run a REPL
+  * Task 2: Configure a directory ready for using Node and NPM
+  * Task 3: Discover documentation in Node docs for working with filesystem
+  * Task 4: Build a simple Unix-based utility using Node + NPM and JavaScript
+  * Task 5: Extend a simple Unix application with an NPM-based package
+* Brief Demo: Creating a small Unix App with Node + NPM
 
-## Lecture 2: Q&amp;A : Construct Node-driven test sandbox in which to run failing test (~30m)
+## Morning Breakout
 
-* Task 6: Construct Node-driven test sandbox in which to run failing tests
-* Task 7: Use ES6 to remediate failing unit tests and are introduced to several structures of ES6
+* Brief Demo: Creating a small Unix App with Node + NPM
 
 **Challenges**
 
