@@ -92,3 +92,7 @@ Time    | Activity
 5:45pm  | Evening Project Standup
 6:00pm  | End of core hours
 6:00pm  | Work!
+
+## Additional Resources
+
+- [Cohort Calendar](https://www.google.com/calendar/embed?src=ZGV2Ym9vdGNhbXAuY29tX3EwYTE4YzhoNGdxMnVnMTJvdXJ2azl1OGM0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
