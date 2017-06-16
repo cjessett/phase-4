@@ -80,7 +80,7 @@ own, but you all need more practice with that.
 * Go through [Learning Rails](../phase-3-prep/learning-rails.md)
 * Watch a talk on rails (see below)
 * [Build a Rails Blog](../../../../rails-blog-challenge)
-* We have assigned you each two [Railsy talks (Week 1)](../resources/railsy-talk-topics.md). One will be on Monday afternoon--research and prepare for it! We want to see some concrete example code, not just a walkthrough of the documentation. Also pick one [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md) of your choice. These are short talks which you will give to the rest of the cohort.  When you pick yours, update the [Lightning Talks Schedule](../resources/lightning-talks-schedule.md).
+* We have assigned you each one [Railsy talks (Week 1)](../resources/railsy-talk-topics.md). One will be on Monday afternoon--research and prepare for it! We want to see some concrete example code, not just a walkthrough of the documentation. Also pick one [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md) of your choice. These are short talks which you will give to the rest of the cohort.  When you pick yours, update the [Lightning Talks Schedule](../resources/lightning-talks-schedule.md).
 * Deploy your Rails app to Heroku **from your personal laptop**
 
 **Talks on Rails (watch one)**
