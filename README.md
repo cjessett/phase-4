@@ -46,16 +46,16 @@
   </tr>
 </table>
 
-## Weekly Groups
+## Weekly Groups and Pair feedback
 
-See the <a href="../../wiki/Groups">wiki</a> for your weekly groups.
+Find your weekly groups [here](./resources/groups.md).
 
+Give your pair feedback [here]().
 
 ## Weekly Cadence
 
 - Engineering Empathy:
-  - Week One: Navigating Difficult Conversations, Tuesday from 3:00 PM - 4:00 PM
-  - Week Two: Team Dynamics, Tuesday from 3:00 PM - 4:00 PM
+  - Week One: Team Dynamics, Tuesday from 3:00 PM - 4:00 PM
 
 ## Daily Cadence
 
