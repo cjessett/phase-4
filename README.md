@@ -52,11 +52,6 @@ Find your weekly groups [here](./resources/groups.md).
 
 Give your pair feedback [here]().
 
-## Weekly Cadence
-
-- Engineering Empathy:
-  - Week One: Team Dynamics, Tuesday from 3:00 PM - 4:00 PM
-
 ## Daily Cadence
 
 Time    | Activity
