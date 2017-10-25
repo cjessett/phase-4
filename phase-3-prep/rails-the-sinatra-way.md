@@ -6,7 +6,7 @@ We are going to build a Rails app the Sinatra way.  That is, we are going to ski
 
 Let's jump into it.  We'll install Rails and create a Rails skeleton app called `learning-rails`:
 
-    gem install rails        # make sure you're using Rails 4
+    gem install rails        # make sure you're using Rails 5!
     rails new learning-rails
 
 You should see a bunch of files automatically generated for you in a `learning-rails` folder.  The layout should be relatively familiar to you already - with some new files and folders (you can find a full description [here](http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application)).

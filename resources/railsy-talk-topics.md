@@ -52,8 +52,7 @@ minification
 #### Data
 * ActiveRecord serialize
 * virtual attributes
-* strong parameters (Rails 4)
-* mass assignment (Rails 3)
+* strong parameters
 
 #### Testing
 * Rspec mocks

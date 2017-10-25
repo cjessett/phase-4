@@ -16,7 +16,7 @@ def create
   post.created_by = current_user.id # created_by tracks which user authored the post
   post.attributes = post_params
   post.save
-  
+
   redirect_to posts_url
 end
 
@@ -50,7 +50,7 @@ def create
   post.created_by = current_user      # I automatically set the author to be the current logged in user
   post.attributes = params[:post] # I allow the form fields... *SHIT* - the params[:post][:created_by] was sent via my hack and will record that the post was created by author_id to 9, which is not correct!
   post.save
-  
+
   redirect_to posts_url
 end
 ```
@@ -66,7 +66,7 @@ Now we're safe.
 
 ## Mass assignment
 
-Note: `strong_parameters` were introduced in Rails 4.  The Rails 3 way to do this is `mass_assignment`.  You might work on a Rails 3 app.  
+Note: `strong_parameters` were introduced in Rails 4.  The Rails 3 way to do this is `mass_assignment`.
 
 Take a look at the [mass_assignment microchallenge](./mass-assignment.md) now.
 
