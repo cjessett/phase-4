@@ -6,7 +6,7 @@
 
 **Talks**
 
-- New Technology Exploration Talks
+- Railsy Talks
 
 **Challenges**
 

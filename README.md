@@ -31,22 +31,15 @@
   </tr>
 
   <tr>
-    <th><a href="./week-9/">Week 9</a></th>
-    <td>MVP Demo</td>
-    <td colspan="1">Feature Freeze</td>
-    <td>Code Freeze</td>
+    <th>Week 9</th>
+    <td colspan="3"><a href="./final-projects/README.md">Final Projects</a></td>
     <td>Demo Preparation</td>
     <td>Demonstration and Graduation</td>
     <td>&nbsp;</td>
   </tr>
-  <tr>
-    <td></td>
-    <td colspan="5"><a href="./final-projects/README.md">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Final Projects ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</a></td>
-    <td></td>
-  </tr>
 </table>
 
-## Weekly Groups and Pair feedback
+## Weekly Groups
 
 Find your weekly groups [here](./resources/groups.md).
 
