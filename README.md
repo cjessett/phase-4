@@ -31,15 +31,22 @@
   </tr>
 
   <tr>
-    <th>Week 9</th>
-    <td colspan="3"><a href="./final-projects/README.md">Final Projects</a></td>
+    <th><a href="./week-9/">Week 9</a></th>
+    <td>MVP Demo</td>
+    <td colspan="1">Feature Freeze</td>
+    <td>Code Freeze</td>
     <td>Demo Preparation</td>
     <td>Demonstration and Graduation</td>
     <td>&nbsp;</td>
   </tr>
+  <tr>
+    <td></td>
+    <td colspan="5"><a href="./final-projects/README.md">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Final Projects ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</a></td>
+    <td></td>
+  </tr>
 </table>
 
-## Weekly Groups
+## Weekly Groups and Pair feedback
 
 Find your weekly groups [here](./resources/groups.md).
 
@@ -49,15 +56,15 @@ Find your weekly groups [here](./resources/groups.md).
   - Sometime this phase: set up time to do Action Planning with your Career Developer
       - [Book a time for Action Planning with Molly](https://officehours_mo.youcanbook.me/)
       - [Book a time for Action Planning with Katy](https://officehours_km.youcanbook.me/)
-  - Week 2 Thursday: 
+  - Week 2 Thursday:
       - Pitch Day!
       - Resume Due to Career Developer
-  - Week 3 Wednesday: 
+  - Week 3 Wednesday:
       - Careers/Presentation Expectations at 12:15pm
       - Final Project Blurb due for Program
-  - Week 3 Thursday: 
-    - Careers Presentation Feedback I at 10:30am 
-    - Teacher Presentation Feedback in Afternoon 
+  - Week 3 Thursday:
+    - Careers Presentation Feedback I at 10:30am
+    - Teacher Presentation Feedback in Afternoon
     - Email sent to Students & Employers attending Graduation
   - Week 3 Friday:
     - Careers & Teachers Presentation Feedback around 10:30am

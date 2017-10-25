@@ -7,6 +7,15 @@ a matter of the time and effort you give to continued, focused practice.
 
 So yeah. Let's get ready to work even harder.
 
+## Goals
+
+Our goals for this phase are to teach you the disciplines that will enable you
+to have discussions in interviews where you are being assessed on:
+
+* your ability to understand technical architecutres and discuss their merits
+* the ability to ship code that has reasonable quality control (tests, clean git commits) around it
+* the ability to collaborate on a multi-day project _as a team_ under guidance of a non-technical influence
+
 ## TL;DR
 
 Finish the core work listed here by Monday morning.
@@ -37,37 +46,36 @@ each of you to build and deploy a blog using Rails by Monday morning (read the
 directions in the guide).
 
 For deployment, you'll need to sign up for Heroku if you haven't already. See
-the [Heroku docs for Rails 4][HerokuGS].
+the [Heroku docs for Rails 5][Heroku Rails5].
 
-
-Make sure you create a Rails 4 application, not Rails 3. For your CSS and JS to
-work properly with Rails' asset pipeline feature, you'll need to add the
-`rails_12factor` gem to your Gemfile.
-
-Only use generators once to see what they do.  It is expected that you will
-only use _migration_ generators in this phase. Generators are for coders who
-have done stuff by hand so many times that the process has become boring, not
-for coders who have done stuff by hand so few times that the process is still
-tricky. Seriously, you'll thank yourself later for being diligent now and
-letting your fingers start remembering how those files come together.
-
-We'll be bending and flexing a lot in Phase 3. It will be hard. It will
-challenge you. I know you can all do it. Expect to dip into your panic zone,
-but reach out. Rails is a big framework and it can feel overwhelming. All the
-teachers in the space can answer your questions. We're all here for you. Ping
-us, get unstuck, then get back at it.
+You may see documentation or hear from others about Rails' generators. Do not
+use them to create code. Unless used carefully they will add features you don't
+need and confuse issues that are really quite simple. They're handy when you're
+without wifi and can't remember something &mdash; but they're not something you
+should lean on. Most professional Rails developers never use the generators.
+Seriously, you'll thank yourself later for being diligent now and letting your
+fingers start remembering how those files come together.
 
 Phase 3 is about ramping up for the real world. You'll be treated less like
 students and more like professional developers. Answers will not be served on a
 platter; rather, you'll have to take the initiative to pursue solutions on your
-own. We aren't looking for clever solutions; instead, we'll make sure your
-process is disciplined, your git log is spotless, and your code is
-well-written, tested, and robust. Consider us more your tech leads who you go
-to more for design decisions rather than "why isn't this working???" sort of
-answers.  This will push you all on reading the errors and digging in on your
-own, but you all need more practice with that.
+own. We aren't looking for clever solutions (non-coincidentally, interviewers
+aren't either); instead, we'll make sure your process is disciplined, your `git`
+log is spotless, and your code is well-written, tested, and robust. Consider us
+more your tech leads who you go to more for design decisions rather than "why
+isn't this working???" sort of answers.  This will push you all on reading the
+errors and digging in on your own, but you all need more practice with that.
+
+Lastly the guidance and resources provide in this document are not meant to be
+"read and forgotten." You can use this starting page and these resources as a
+great place to get unstuck. Remember the console, your peers, your imagination,
+and your ability to reason through a problem are your greatest teachers.
 
 ### Core
+
+**Setup**
+
+- Use [this process](../resources/rails-setup.md) for creating a new rails app.
 
 **Prep for Monday**
 
@@ -79,9 +87,10 @@ own, but you all need more practice with that.
 - Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
 * Go through [Learning Rails](../phase-3-prep/learning-rails.md)
 * Watch a talk on rails (see below)
-* [Build a Rails Blog](../../../../rails-blog-challenge)
+* [Build a Rails Blog](../../../../rails-blog-challenge) (Avoid using devise)
 * We have assigned you each one [Railsy talks (Week 1)](../resources/railsy-talk-topics.md). One will be on Monday afternoon--research and prepare for it! We want to see some concrete example code, not just a walkthrough of the documentation. Also pick one [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md) of your choice. These are short talks which you will give to the rest of the cohort.  When you pick yours, update the [Lightning Talks Schedule](../resources/lightning-talks-schedule.md).
 * Deploy your Rails app to Heroku **from your personal laptop**
+- [Cool Stuff in Rails](../resources/cool-stuff-in-rails.md): **VERY IMPORTANT**. Seeing some of these helpers and patterns will make learning the work of Rails much easier. Time invested here (perhaps attempting "fuzzy" experiments as opportunity in your Rails Blog codebase will have great benefit)
 
 **Talks on Rails (watch one)**
 - [Intro to Rails with Lucas - part 1 (45 min)](https://talks.devbootcamp.com/intro-to-rails-part-1)
@@ -91,8 +100,7 @@ own, but you all need more practice with that.
 
 ### Additional Resources
 
-- [Cool Stuff in Rails](../resources/cool-stuff-in-rails.md) (seriously read this)
-- [Rails Resources](../resources/rails-resources.md)
 - [Rails coming from Sinatra](../phase-3-prep/rails-sinatra.md)
+- [Rails Resources](../resources/rails-resources.md)
 
-[HerokuGS]: https://devcenter.heroku.com/articles/getting-started-with-rails4.
+[Heroku Rails5]: https://devcenter.heroku.com/articles/getting-started-with-rails5

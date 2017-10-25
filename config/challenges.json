@@ -15,7 +15,8 @@
       "client-project-challenge"
     ],
     "friday": [
-      "client-project-challenge"
+      "boustrophedon-challenge",
+      "nodejs-sandbox-and-tdd-es6-model-challenge"
     ],
     "weekend": [
       "rails-checkpoint-challenge"
@@ -26,14 +27,15 @@
   },
   "week-8": {
     "monday": [
-      "256-challenge"
+      "number-translator-widget-challenge",
+      "number-translator-widget-shared-state-challenge"
     ],
     "tuesday": [
-      "markdown-widget-challenge",
-      "jasmine-mvc-challenge"
+      "number-base-converter-react-challenge",
+      "lil-twitter-react-challenge"
     ],
     "wednesday": [
-      "lil-twitter-challenge"
+
     ]
   }
 }

@@ -1,5 +1,5 @@
 ## Wednesday
-### Client Project - Day 1/3
+### Client Project - Day 1/2
 
 ### Core
 

@@ -2,11 +2,13 @@
 
 ## Day 1 | Thursday
 
+**By 2 PM:**
 - Set your team's workflow, process and guidelines.
 - Set a schedule for team standups (cohort standups are already fixed).
 - As a group, figure out and agree upon what you're building.
 - Begin researching your project ideas and any special technologies you might need to make it work.
 - Build a backlog of the user stories that you want to implement.
+**You will meet with your instructors after 2 PM**
 
 Find any technologies that you haven't worked with, unfamiliar concepts that
 you don't understand, or anything that scares you about what you're planning to
