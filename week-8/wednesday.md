@@ -28,7 +28,7 @@ comfortable for us to use future projects.
 
 **Challenges**
 
-If you're very comfortable building interfaces in React, move on to [my-own-reddit-react-challenge]()
+If you're very comfortable building interfaces in React, move on to [my-own-reddit-react-challenge](../../../../my-own-reddit-react-challenge)
 
 **Get Ready for Final Projects**
 
