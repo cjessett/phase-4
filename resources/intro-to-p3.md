@@ -1,7 +1,5 @@
 # Introduction to Phase 3
 
-[Groups, Resources, and more!](../../../wiki)
-
 ### Table of contents
 * [Welcome](#welcome)
 * [Additional Work](#additional-work)
