@@ -8,35 +8,20 @@ No talks after Wednesday of week 2 due to final projects.
 
 [Railsy Talk Topics List](./railsy-talk-topics.md)
 
-Monday PM
-- Talk 1:
-- Talk 2:
-- Talk 3:
-- Talk 4:
+Monday AM
+- Talk 1: Michelle - routing, resources, including url helpers (url and path), named routes (as), and custom routing
+- Talk 2: Baska - Helper methods (link helpers, date helpers, form helpers, asset helpers)
+- Talk 3: Kristin - has_secure_password & using it instead of all that long bcrypt stuff
 
 Tuesday AM
-- Talk 1:
-- Talk 2:
-- Talk 3:
-- Talk 4:
+- Talk 1: Austin - Service Objects
+- Talk 2: Charlie - Strong Params
+- Talk 3: Matt - Ajax in Rails (remote true, js.erb, respond_to format, ajax:success, ajax:error)
 
 Wednesday AM
-- Talk 1:
-- Talk 2:
-- Talk 3:
-- Talk 4:
-
-Thursday AM
-- Talk 1:
-- Talk 2:
-- Talk 3:
-- Talk 4:
-
-Friday AM
-- Talk 1:
-- Talk 2:
-- Talk 3:
-- Talk 4:
+- Talk 1: Melissa - asset pipeline, including manifest files, concatenation, and minification
+- Talk 2: Patrick - Collection Partials
+- Talk 3: Vikki - Flash, notice & sessions
 
 ## Gemsy Talks
 
@@ -46,18 +31,15 @@ Monday AM
 - Talk 1:
 - Talk 2:
 - Talk 3:
-- Talk 4:
 
 Tuesday AM
 - Talk 1:
 - Talk 2:
 - Talk 3:
-- Talk 4:
 
 Wednesday AM
 - Talk 1:
 - Talk 2:
 - Talk 3:
-- Talk 4:
 
 
