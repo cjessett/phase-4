@@ -21,7 +21,7 @@ Tuesday AM
 Wednesday AM
 - Talk 1: Melissa - asset pipeline, including manifest files, concatenation, and minification
 - Talk 2: Patrick - Collection Partials
-- Talk 3: Vikki - Flash, notice & sessions
+- Talk 3: Vikky - Flash, notice & sessions
 
 ## Gemsy Talks
 
@@ -38,7 +38,7 @@ Tuesday AM
 - Talk 3:
 
 Wednesday AM
-- Talk 1:
+- Talk 1: Vikky - d3.js
 - Talk 2:
 - Talk 3:
 
