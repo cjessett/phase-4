@@ -38,7 +38,7 @@ Tuesday AM
 - Talk 3:
 
 Wednesday AM
-- Talk 1: Vikky - d3.js
+- Talk 1: Vikky - sorcery 
 - Talk 2:
 - Talk 3:
 
