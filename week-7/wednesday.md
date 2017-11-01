@@ -41,3 +41,5 @@ Today, you will:
   - [Ruby Community Guide](https://github.com/bbatsov/ruby-style-guide)
   - [AirBnB Ruby Guide](https://github.com/airbnb/ruby)
   - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript/tree/master/es5)
+  
+  Note from Graham: The above link is broken (h/t Kathiee for noticing that!). I think the resource that used to be there is here now: https://github.com/airbnb/javascript/tree/es5-deprecated/es5 -- it's hard to tell -- but that es5 version of the style guide is deprecated, so https://github.com/airbnb/javascript/ might also be interesting. You should know the difference between es5 and es6, so that might be a good place to start!
