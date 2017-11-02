@@ -39,7 +39,7 @@ Tuesday AM
 
 Wednesday AM
 - Talk 1: Vikky - sorcery 
-- Talk 2:
+- Talk 2: Michelle - kaminari
 - Talk 3:
 
 
