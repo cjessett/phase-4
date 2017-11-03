@@ -175,7 +175,6 @@ learning.
 * [NodeJS Standard Library Docs][Node Stdlib]
 * [NPM][]
 * [ES6 Feature List][es6f]
-* [React ES6-ES5 and React-Ruby](http://panw.weebly.com/programming/translation-for-react-es5-es6-and-if-react-was-in-ruby)
 
 [NodeJS]: http://nodejs.org
 [NPM]: https://www.npmjs.com
