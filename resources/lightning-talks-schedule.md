@@ -34,7 +34,7 @@ Monday AM
 
 Tuesday AM
 - Talk 1:
-- Talk 2:
+- Talk 2: Austin - Paperclip
 - Talk 3: Charlie - Angular.js
 
 Wednesday AM
