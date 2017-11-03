@@ -35,7 +35,7 @@ Monday AM
 Tuesday AM
 - Talk 1:
 - Talk 2:
-- Talk 3:
+- Talk 3: Charlie - Angular.js
 
 Wednesday AM
 - Talk 1: Vikky - sorcery 
