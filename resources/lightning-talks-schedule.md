@@ -33,7 +33,7 @@ Monday AM
 - Talk 3:
 
 Tuesday AM
-- Talk 1:
+- Talk 1: Matt - Let's Make a Gem!
 - Talk 2: Austin - Paperclip
 - Talk 3: Charlie - Angular.js
 
