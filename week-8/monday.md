@@ -76,7 +76,7 @@ material for the day and can corroborate your learning.
 
 **Resource**
 
-* [Handout: Creating Widgets](../resources/widget_creation_process.html)
+* [Handout: Creating Widgets](../resources/widget_creation_process.md)
 
 **Core**
 
