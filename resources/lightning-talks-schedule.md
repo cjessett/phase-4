@@ -30,7 +30,7 @@ Wednesday AM
 Monday AM
 - Talk 1: Patrick - Coffeescript
 - Talk 2:
-- Talk 3:
+- Talk 3: Melissa - Resque
 
 Tuesday AM
 - Talk 1: Matt - Let's Make a Gem!
