@@ -38,7 +38,7 @@ Tuesday AM
 - Talk 3: Charlie - Action Mailer
 
 Wednesday AM
-- Talk 1: Vikky - sorcery 
+- Talk 1: Vikky - Bourbon 
 - Talk 2: Michelle - kaminari
 - Talk 3: Kristin - Devise
 
