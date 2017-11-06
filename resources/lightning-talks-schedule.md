@@ -28,7 +28,7 @@ Wednesday AM
 [Gemsy Talk Topics List](./gemsy_talk_topics.md)
 
 Monday AM
-- Talk 1:
+- Talk 1: Patrick - Coffeescript
 - Talk 2:
 - Talk 3:
 
