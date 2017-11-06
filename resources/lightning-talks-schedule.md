@@ -35,7 +35,7 @@ Monday AM
 Tuesday AM
 - Talk 1: Matt - Let's Make a Gem!
 - Talk 2: Austin - Paperclip
-- Talk 3: Charlie - Angular.js
+- Talk 3: Charlie - Action Mailer
 
 Wednesday AM
 - Talk 1: Vikky - sorcery 
