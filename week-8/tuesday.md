@@ -64,7 +64,7 @@ For demonstrations on this topic see: https://talks.devbootcamp.com/topics-in-re
 
 **Resources**
 
-* [Component Creation Guidelines](../resources/component_creation_process.html)
+* [Component Creation Guidelines](../resources/component_creation_process.md)
 
 **Core**
 
